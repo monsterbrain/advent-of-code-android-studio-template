@@ -7,11 +7,9 @@ import org.junit.Test
 import org.junit.Assert.*
 
 /**
- * Example local unit test, which will execute on the development machine (host).
- *
- * See [testing documentation](http://d.android.com/tools/testing).
+ * Day 01 Tests
  */
-class Day01Test {
+class Day01 {
     @Test
     fun part1() {
         val input = readInput("Day01")!!.readText().lines()
